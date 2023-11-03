@@ -3,3 +3,5 @@
 # gravando 
 
 * comando push
+* comando pull
+* comando fetch
